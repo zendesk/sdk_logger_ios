@@ -1,0 +1,11 @@
+framework module ZendeskSDKLogger {
+  umbrella header "ZendeskSDKLogger.h"
+
+  export *
+  module * { export * }
+}
+
+module ZendeskSDKLogger.Swift {
+    header "ZendeskSDKLogger-Swift.h"
+    requires objc
+}
