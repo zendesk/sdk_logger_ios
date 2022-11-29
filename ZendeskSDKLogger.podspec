@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name         = "ZendeskSDKLogger"
-  s.version      = "0.4.3"
+  s.version      = "0.5.0"
   s.summary      = "ZendeskSDKLogger #{s.version.to_s}"
-  s.homepage     = "https://developer.zendesk.com/documentation/zendesk-sdks/"
+  s.homepage     = "https://developer.zendesk.com/documentation/zendesk-web-widget-sdks/sdks/ios/getting_started/"
   s.license      = {
     :type => 'Copyright',
     :text => <<-LICENSE
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.author       = 'Zendesk'
   s.platform     = :ios, '11.0'
   s.requires_arc = true
-  s.swift_version = '5.5.1'
+  s.swift_version = '5.3'
   s.cocoapods_version = '>= 1.10.0'
   s.source       = { :git => "https://github.com/zendesk/sdk_logger_ios.git", :tag => s.version }
   s.vendored_frameworks = 'ZendeskSDKLogger.xcframework'
