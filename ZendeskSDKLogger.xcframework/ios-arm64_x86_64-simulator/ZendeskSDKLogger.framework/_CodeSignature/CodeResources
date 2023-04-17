@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ZendeskSDKLogger-Swift.h</key>
 		<data>
-		IYx13f/1JvQ/ID4Ww62XvCmra98=
+		FaA6tBX2jK7oi0FVMYyNEMUkpyw=
 		</data>
 		<key>Headers/ZendeskSDKLogger.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WP22zlKOTHfDHg3PE7HYDe7JthY=
+		aQjhEesFgYPauIRifw1AwZycJqc=
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		KmUAVNkSIYgGsnnV56rj2Lb6QwA=
+		4ivZ/LbNKRTkvaU6qNNr7YquuDc=
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		UommlxSc/SV7Qq3v/dmxZrk1gGI=
+		puXY5ZymHAIPyi+z04ytNyXiTMg=
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KmUAVNkSIYgGsnnV56rj2Lb6QwA=
+		4ivZ/LbNKRTkvaU6qNNr7YquuDc=
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Yy6jC83LdHw+8hyh/EtmaAaB84o=
+		IpRvdVoepFvGEZB2BxnozshQkgE=
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		iFfq8wd8f0hoXidMYQreRHCUbnE=
+		073XvkpzURy7pZEcK4zy1ba7kuQ=
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Gn3AhLaUHpNAdjUiDDPIUaNlXUk=
+		pRyuKIwkQgLq34Dx0iD62lPnQAI=
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		iFfq8wd8f0hoXidMYQreRHCUbnE=
+		073XvkpzURy7pZEcK4zy1ba7kuQ=
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4DbTWlLeetIGl+Wu0Acqh89tszw=
+		8AWErVLmT1lc4MyC5dG24e5JU44=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3UeYQk/JwgbS7zv68iGmGqFZU8ct5xGMLYiRNknMgw4=
+			XRipGiIf9rCpIFJ4TKvmNLpygWBF/Yt6pO6zJwOGmxA=
 			</data>
 		</dict>
 		<key>Headers/ZendeskSDKLogger.h</key>
@@ -88,28 +88,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			APiBRYbdjRQ5vdobchyguNaa6navAlvfeeazp3L0KiM=
+			KNyAhGhEEf1/dMN7rKlMvCDuA17m7wS0o+IkAj88SHk=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+2yZF6qWVAg0ZtY2IFYEKHwsLbB/wKZkLjeaB6fvs/8=
+			nuP6Lv1zFg7JF1WD4sh7PC7woGJ23OrV4ErWAq3Crzo=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			APiBRYbdjRQ5vdobchyguNaa6navAlvfeeazp3L0KiM=
+			KNyAhGhEEf1/dMN7rKlMvCDuA17m7wS0o+IkAj88SHk=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VyIitYYwMpqJO2ReNKLIIBGw+0zEj046KekH9T8UX5Y=
+			nKcGaExNk/MTVE3o8vyw2hCzg3BCqOL9UdJ5M85iO8w=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -123,28 +123,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TYxr/V/SqgKQ4HLYrA6SbjN9eem21nbocl59/P6c3Mc=
+			Dj6XIg1dbLa+tFNVcQCaSI0fNTWBAYVNWQ5qVi/Kj20=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y3Cns31kc+8ZRNCJvjvsypofEH3TiZIeQRa7mY/0HrE=
+			3zuE6uU49lrW63wD7DecBh46YTSjgBo9r9oWipRiqxM=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TYxr/V/SqgKQ4HLYrA6SbjN9eem21nbocl59/P6c3Mc=
+			Dj6XIg1dbLa+tFNVcQCaSI0fNTWBAYVNWQ5qVi/Kj20=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xv+4Sc3NQk5Im/uhusIo8YCjaarOAHDKfyXOAWneM2I=
+			y0fPqTaV2JpHPPuXJmOKSo/UK6gGVO4y61/YaZ8qlgo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
