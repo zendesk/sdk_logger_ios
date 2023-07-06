@@ -1811,70 +1811,70 @@
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
       "kind": "IntegerLiteral",
-      "offset": 756,
+      "offset": 710,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
       "kind": "IntegerLiteral",
-      "offset": 774,
+      "offset": 728,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
       "kind": "IntegerLiteral",
-      "offset": 793,
+      "offset": 747,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
       "kind": "IntegerLiteral",
-      "offset": 812,
+      "offset": 766,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
       "kind": "IntegerLiteral",
-      "offset": 831,
+      "offset": 785,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
       "kind": "IntegerLiteral",
-      "offset": 756,
+      "offset": 710,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
       "kind": "IntegerLiteral",
-      "offset": 774,
+      "offset": 728,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
       "kind": "IntegerLiteral",
-      "offset": 793,
+      "offset": 747,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
       "kind": "IntegerLiteral",
-      "offset": 812,
+      "offset": 766,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
       "kind": "IntegerLiteral",
-      "offset": 831,
+      "offset": 785,
       "length": 1,
       "value": "6"
     },
@@ -1902,21 +1902,21 @@
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
       "kind": "BooleanLiteral",
-      "offset": 989,
+      "offset": 943,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
       "kind": "BooleanLiteral",
-      "offset": 1092,
+      "offset": 1046,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
       "kind": "BooleanLiteral",
-      "offset": 1180,
+      "offset": 1134,
       "length": 4,
       "value": "true"
     }

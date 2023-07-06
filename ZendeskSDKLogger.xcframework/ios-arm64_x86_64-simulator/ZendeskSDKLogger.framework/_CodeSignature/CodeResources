@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HDHDtc/kzIxc9iielmskIGDcT8Q=
+		bKyMU/Mvsc9XTO5Ed8xWeYfDCR0=
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ytTFQzLxr7OUl6wwbaGCG5jg6DU=
+		zV12+92ycXY8OzwiGG+qh2ZRoVo=
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ytTFQzLxr7OUl6wwbaGCG5jg6DU=
+		zV12+92ycXY8OzwiGG+qh2ZRoVo=
 		</data>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Aw5jBQmfLEGr61nC3t3rzFmV8ShqyxAwcRnMqo16sZI=
+			RYy/+3u8G9xjyI4fpn7lYZVO0w31zFmxNdK+uY0YVmA=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -116,7 +116,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Aw5jBQmfLEGr61nC3t3rzFmV8ShqyxAwcRnMqo16sZI=
+			RYy/+3u8G9xjyI4fpn7lYZVO0w31zFmxNdK+uY0YVmA=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKLogger.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
