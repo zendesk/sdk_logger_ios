@@ -1,7 +1,7 @@
 framework module ZendeskSDKLogger {
   umbrella header "ZendeskSDKLogger.h"
-
   export *
+
   module * { export * }
 }
 
