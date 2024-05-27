@@ -22,9 +22,9 @@ relocations:
   - { offsetInCU: 0x7D, offset: 0x6F1, size: 0x8, addend: 0x0, symName: '_$s16ZendeskSDKLogger20DefaultLoggerFactoryVAA0dE0A2aDP03getD09namespace8categoryAA3Log_pSS_SStFZTW', symObjAddr: 0x10, symBinAddr: 0x43E0, symSize: 0xC8 }
   - { offsetInCU: 0x124, offset: 0x798, size: 0x8, addend: 0x0, symName: '_$sSo9OS_os_logCMa', symObjAddr: 0xD8, symBinAddr: 0x44A8, symSize: 0x3C }
   - { offsetInCU: 0x27, offset: 0x839, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DateV16ZendeskSDKLoggerE9FormatterV9LogFormat_WZ', symObjAddr: 0x0, symBinAddr: 0x4518, symSize: 0x2C }
-  - { offsetInCU: 0x49, offset: 0x85B, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DateV16ZendeskSDKLoggerE9FormatterV9LogFormatSSvpZ', symObjAddr: 0x1BF8, symBinAddr: 0xCEA0, symSize: 0x0 }
-  - { offsetInCU: 0x62, offset: 0x874, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DateV16ZendeskSDKLoggerE9FormatterV11PosixLocaleSSvpZ', symObjAddr: 0x1C08, symBinAddr: 0xCEB0, symSize: 0x0 }
-  - { offsetInCU: 0x7B, offset: 0x88D, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DateV16ZendeskSDKLoggerE9FormatterV03logE0So06NSDateE0CvpZ', symObjAddr: 0x1C18, symBinAddr: 0xCEC0, symSize: 0x0 }
+  - { offsetInCU: 0x49, offset: 0x85B, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DateV16ZendeskSDKLoggerE9FormatterV9LogFormatSSvpZ', symObjAddr: 0x1BE8, symBinAddr: 0xCEA0, symSize: 0x0 }
+  - { offsetInCU: 0x62, offset: 0x874, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DateV16ZendeskSDKLoggerE9FormatterV11PosixLocaleSSvpZ', symObjAddr: 0x1BF8, symBinAddr: 0xCEB0, symSize: 0x0 }
+  - { offsetInCU: 0x7B, offset: 0x88D, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DateV16ZendeskSDKLoggerE9FormatterV03logE0So06NSDateE0CvpZ', symObjAddr: 0x1C08, symBinAddr: 0xCEC0, symSize: 0x0 }
   - { offsetInCU: 0x88, offset: 0x89A, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DateV16ZendeskSDKLoggerE9FormatterV9LogFormat_WZ', symObjAddr: 0x0, symBinAddr: 0x4518, symSize: 0x2C }
   - { offsetInCU: 0xA1, offset: 0x8B3, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DateV16ZendeskSDKLoggerE9FormatterV11PosixLocale_WZ', symObjAddr: 0x2C, symBinAddr: 0x4544, symSize: 0x2C }
   - { offsetInCU: 0xBA, offset: 0x8CC, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DateV16ZendeskSDKLoggerE9FormatterV03logE0_WZ', symObjAddr: 0x58, symBinAddr: 0x4570, symSize: 0x1C }
