@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "ZendeskSDKLogger",
+    "printedName": "ZendeskSDKLogger",
     "children": [
       {
         "kind": "Import",
@@ -27,7 +27,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Log",
-                "printedName": "ZendeskSDKLogger.Log",
+                "printedName": "any ZendeskSDKLogger.Log",
                 "usr": "s:16ZendeskSDKLogger3LogP"
               },
               {
@@ -65,6 +65,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -381,6 +397,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -549,12 +579,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -569,12 +599,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Array",
-                "printedName": "[Swift.CVarArg]",
+                "printedName": "[any Swift.CVarArg]",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "CVarArg",
-                    "printedName": "Swift.CVarArg",
+                    "printedName": "any Swift.CVarArg",
                     "usr": "s:s7CVarArgP"
                   }
                 ],
@@ -628,12 +658,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -649,12 +679,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Array",
-                "printedName": "[Swift.CVarArg]",
+                "printedName": "[any Swift.CVarArg]",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "CVarArg",
-                    "printedName": "Swift.CVarArg",
+                    "printedName": "any Swift.CVarArg",
                     "usr": "s:s7CVarArgP"
                   }
                 ],
@@ -707,12 +737,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -728,12 +758,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Array",
-                "printedName": "[Swift.CVarArg]",
+                "printedName": "[any Swift.CVarArg]",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "CVarArg",
-                    "printedName": "Swift.CVarArg",
+                    "printedName": "any Swift.CVarArg",
                     "usr": "s:s7CVarArgP"
                   }
                 ],
@@ -786,12 +816,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -807,12 +837,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Array",
-                "printedName": "[Swift.CVarArg]",
+                "printedName": "[any Swift.CVarArg]",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "CVarArg",
-                    "printedName": "Swift.CVarArg",
+                    "printedName": "any Swift.CVarArg",
                     "usr": "s:s7CVarArgP"
                   }
                 ],
@@ -865,12 +895,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -886,12 +916,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Array",
-                "printedName": "[Swift.CVarArg]",
+                "printedName": "[any Swift.CVarArg]",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "CVarArg",
-                    "printedName": "Swift.CVarArg",
+                    "printedName": "any Swift.CVarArg",
                     "usr": "s:s7CVarArgP"
                   }
                 ],
@@ -944,12 +974,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -965,12 +995,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Array",
-                "printedName": "[Swift.CVarArg]",
+                "printedName": "[any Swift.CVarArg]",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "CVarArg",
-                    "printedName": "Swift.CVarArg",
+                    "printedName": "any Swift.CVarArg",
                     "usr": "s:s7CVarArgP"
                   }
                 ],
@@ -997,6 +1027,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -1250,7 +1296,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "ExistentialMetatype",
-                "printedName": "ZendeskSDKLogger.LoggerFactory.Type",
+                "printedName": "any ZendeskSDKLogger.LoggerFactory.Type",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -1282,7 +1328,7 @@
                   {
                     "kind": "TypeNominal",
                     "name": "ExistentialMetatype",
-                    "printedName": "ZendeskSDKLogger.LoggerFactory.Type",
+                    "printedName": "any ZendeskSDKLogger.LoggerFactory.Type",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -1317,7 +1363,7 @@
                   {
                     "kind": "TypeNominal",
                     "name": "ExistentialMetatype",
-                    "printedName": "ZendeskSDKLogger.LoggerFactory.Type",
+                    "printedName": "any ZendeskSDKLogger.LoggerFactory.Type",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -1371,7 +1417,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Log",
-                "printedName": "ZendeskSDKLogger.Log",
+                "printedName": "any ZendeskSDKLogger.Log",
                 "usr": "s:16ZendeskSDKLogger3LogP"
               },
               {
@@ -1443,6 +1489,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1615,7 +1675,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Log",
-                "printedName": "ZendeskSDKLogger.Log",
+                "printedName": "any ZendeskSDKLogger.Log",
                 "usr": "s:16ZendeskSDKLogger3LogP"
               }
             ],
@@ -1634,7 +1694,7 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Log",
-                    "printedName": "ZendeskSDKLogger.Log",
+                    "printedName": "any ZendeskSDKLogger.Log",
                     "usr": "s:16ZendeskSDKLogger3LogP"
                   }
                 ],
@@ -1659,7 +1719,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Log",
-                "printedName": "ZendeskSDKLogger.Log",
+                "printedName": "any ZendeskSDKLogger.Log",
                 "usr": "s:16ZendeskSDKLogger3LogP"
               }
             ],
@@ -1677,7 +1737,7 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Log",
-                    "printedName": "ZendeskSDKLogger.Log",
+                    "printedName": "any ZendeskSDKLogger.Log",
                     "usr": "s:16ZendeskSDKLogger3LogP"
                   }
                 ],
@@ -1701,7 +1761,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Log",
-                "printedName": "ZendeskSDKLogger.Log",
+                "printedName": "any ZendeskSDKLogger.Log",
                 "usr": "s:16ZendeskSDKLogger3LogP"
               }
             ],
@@ -1720,7 +1780,7 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Log",
-                    "printedName": "ZendeskSDKLogger.Log",
+                    "printedName": "any ZendeskSDKLogger.Log",
                     "usr": "s:16ZendeskSDKLogger3LogP"
                   }
                 ],
@@ -1744,7 +1804,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Log",
-                "printedName": "ZendeskSDKLogger.Log",
+                "printedName": "any ZendeskSDKLogger.Log",
                 "usr": "s:16ZendeskSDKLogger3LogP"
               }
             ],
@@ -1762,7 +1822,7 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Log",
-                    "printedName": "ZendeskSDKLogger.Log",
+                    "printedName": "any ZendeskSDKLogger.Log",
                     "usr": "s:16ZendeskSDKLogger3LogP"
                   }
                 ],
@@ -1785,6 +1845,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -1844,97 +1920,6 @@
       "value": "6"
     },
     {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
-      "kind": "StringLiteral",
-      "offset": 935,
-      "length": 5,
-      "value": "\"INF\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
-      "kind": "StringLiteral",
-      "offset": 981,
-      "length": 5,
-      "value": "\"DEB\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
-      "kind": "StringLiteral",
-      "offset": 1027,
-      "length": 5,
-      "value": "\"ERR\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
-      "kind": "StringLiteral",
-      "offset": 1073,
-      "length": 5,
-      "value": "\"FAU\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
-      "kind": "StringLiteral",
-      "offset": 1115,
-      "length": 5,
-      "value": "\"DEF\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
-      "kind": "IntegerLiteral",
-      "offset": 710,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
-      "kind": "IntegerLiteral",
-      "offset": 728,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
-      "kind": "IntegerLiteral",
-      "offset": 747,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
-      "kind": "IntegerLiteral",
-      "offset": 766,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Log.swift",
-      "kind": "IntegerLiteral",
-      "offset": 785,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLoggerFactory.swift",
-      "kind": "BooleanLiteral",
-      "offset": 767,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLoggerFactory.swift",
-      "kind": "BooleanLiteral",
-      "offset": 807,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLoggerFactory.swift",
-      "kind": "BooleanLiteral",
-      "offset": 849,
-      "length": 5,
-      "value": "false"
-    },
-    {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Extensions\/Date+Log.swift",
       "kind": "StringLiteral",
       "offset": 721,
@@ -1956,20 +1941,6 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Extensions\/String+Log.swift",
-      "kind": "StringLiteral",
-      "offset": 984,
-      "length": 3,
-      "value": "\"\/\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/Extensions\/String+Log.swift",
-      "kind": "StringLiteral",
-      "offset": 1172,
-      "length": 3,
-      "value": "\".\""
-    },
-    {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
       "kind": "BooleanLiteral",
       "offset": 943,
@@ -1989,132 +1960,6 @@
       "offset": 1134,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2093,
-      "length": 15,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2106,
-      "length": 1,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2207,
-      "length": 14,
-      "value": "\"(\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2218,
-      "length": 1,
-      "value": "\") \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2252,
-      "length": 16,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2266,
-      "length": 1,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2388,
-      "length": 14,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2400,
-      "length": 1,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2517,
-      "length": 26,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2533,
-      "length": 1,
-      "value": "\".\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2541,
-      "length": 1,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2574,
-      "length": 16,
-      "value": "\"'\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2588,
-      "length": 2,
-      "value": "\"'\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2696,
-      "length": 14,
-      "value": "\" : \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2709,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 3040,
-      "length": 4,
-      "value": "\"%@\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 3298,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Logger\/Logger\/Source\/DefaultLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 3327,
-      "length": 4,
-      "value": "\"%p\""
     }
   ]
 }
