@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ZendeskSDKLogger"
-  s.version      = "0.12.0"
+  s.version      = "0.13.0"
   s.summary      = "ZendeskSDKLogger #{s.version.to_s}"
   s.homepage     = "https://developer.zendesk.com/documentation/zendesk-web-widget-sdks/sdks/ios/getting_started/"
   s.license      = {
